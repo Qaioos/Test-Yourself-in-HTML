@@ -1,0 +1,67 @@
+[
+    {
+        "title":"why we Use <br> Element",
+        "answer_1":"To Make Text Bold",
+        "answer_2":"To Make Text Italic",
+        "answer_3":"To Make Text Underline",
+        "answer_4":"To Add Break Line",
+        "right_answer":"To Add Break Line" 
+    },
+    {
+        "title":"in HTML,which tag is used to create a line Title inside thy body?",
+        "answer_1":"<br>",
+        "answer_2":"<h1>",
+        "answer_3":"<p>",
+        "answer_4":"<title>",
+        "right_answer":"<h1>" 
+    },
+    {
+        "title":"Is <img> a self-closing tag in HTML?",
+        "answer_1":"Sometimes",
+        "answer_2":"No",
+        "answer_3":"Yes",
+        "answer_4":"I don't know",
+        "right_answer":"Yes" 
+    },
+    {
+        "title":"How Can We Create A Link In HTML?",
+        "answer_1":"<url>",
+        "answer_2":"<link>",
+        "answer_3":"<href>",
+        "answer_4":"<a>",
+        "right_answer":"<a>"
+    },
+    {
+        "title":"How We can Make A Text Bold In HTML?",
+        "answer_1":"<u>",
+        "answer_2":"<i>",
+        "answer_3":"<b>",
+        "answer_4":"<br>",
+        "right_answer":"<b>"
+    },
+    {
+        "title":"How meta tag is useful in HTML?",
+        "answer_1":"To Provide Metadata About The HTML Document",
+        "answer_2":"To Create A Hyperlink",
+        "answer_3":"To Add Break Line",
+        "answer_4":"To Make Text Bold",
+        "right_answer":"To Provide Metadata About The HTML Document" 
+    },
+    {
+        "title":"Which tag is used to create a paragraph in HTML?",
+        "answer_1":"<para>",
+        "answer_2":"<p>",
+        "answer_3":"<pg>",
+        "answer_4":"<text>",
+        "right_answer":"<p>"
+    },
+    {
+        "title":"What is the purpose of the alt attribute in the <img> tag?",
+        "answer_1":"To Specify The Image Source",
+        "answer_2":"To Provide Alternative Text For The Image",
+        "answer_3":"To Define The Image Size",
+        "answer_4":"To Add A Border To The Image",
+        "right_answer":"To Provide Alternative Text For The Image"
+    }
+
+]
